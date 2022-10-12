@@ -1,0 +1,26 @@
+
+body {
+    background: #2B3337;
+}
+
+.container {
+    border-left: white;
+}
+
+p {
+    color: white;
+}
+
+input[type=text], textarea {
+    background: #9D9D9D;
+    border-bottom: #FF01FF;
+}
+
+input[type=text]:focus, textarea:focus {
+    border-bottom: #FF01FF;
+}
+
+input[type=submit] {
+    background: #1C2022;
+}
+
